@@ -1,0 +1,13 @@
+id: file://<WORKSPACE>/src/test/scala/gcd/Practice/abcTest.scala:[147..147) in Input.VirtualFile("file://<WORKSPACE>/src/test/scala/gcd/Practice/abcTest.scala", "package Practice
+
+import chisel3._
+import chisel3.tester._
+import chisel3.scalatest.FreeSpec
+import chisel3.experimental.Bundleliterals._
+
+class 
+
+")
+file://<WORKSPACE>/src/test/scala/gcd/Practice/abcTest.scala:10: error: expected identifier; obtained eof
+
+^

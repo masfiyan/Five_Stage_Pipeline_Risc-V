@@ -1,0 +1,9 @@
+id: file://<WORKSPACE>/src/main/scala/gcd/Practice/chisel.scala:[64..64) in Input.VirtualFile("file://<WORKSPACE>/src/main/scala/gcd/Practice/chisel.scala", "Package Practice
+
+import chisel3._
+import chisel3.util._
+
+class ")
+file://<WORKSPACE>/src/main/scala/gcd/Practice/chisel.scala:6: error: expected identifier; obtained eof
+class 
+      ^
